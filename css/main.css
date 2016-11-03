@@ -1,0 +1,18 @@
+p {
+   border-style:dashed;
+   border-width:1px;
+   background-color:white;
+   text-align:center;
+   margin:20px 10px 30px 40px;
+   padding:10px 100px 10px 100px;
+   font-size:12px;
+}
+div {
+   background-color:rgb(255,160,122);
+   border-width:15px 8px 15px 8px;
+   border-style:solid;
+   border-color:rgb(148,0,211);
+   margin:200px 50px 200px 50px;
+  
+    
+}
